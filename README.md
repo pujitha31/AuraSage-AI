@@ -1,7 +1,6 @@
-'''StyleSage-AI
-Where AI meets Elegence
+AuraSage AI: Where AI Meets Elegance
 
-StyleSage AI is an AI-powered multi-modal jewelry recommendation system that delivers personalized jewelry suggestions based on face shape, skin tone, neckline, and occasion. The system leverages deep learning, computer vision, and natural language processing (NLP) techniques to create accurate, contextually relevant recommendations tailored to user preferences.
+AuraSage AI is an AI-powered multi-modal jewelry recommendation system that delivers personalized jewelry suggestions based on face shape, skin tone, neckline, and occasion. The system leverages deep learning, computer vision, and natural language processing (NLP) techniques to create accurate, contextually relevant recommendations tailored to user preferences.
 
 Key Features
 Personalized Recommendations: Suggests jewelry pieces based on a user’s unique attributes, such as face shape, skin tone, neckline, and occasion.
@@ -20,8 +19,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/pujitha31/StyleSage-AI.git
-cd StyleSage-AI
+git clone https://github.com/pujitha31/AuraSage-AI.git
+cd AuraSage-AI
 Install required dependencies:
 
 bash
@@ -38,4 +37,5 @@ Vision Transformers (ViT) and ResNet-18 are employed for face shape and neckline
 RoBERTa is utilized for occasion-based text classification to further personalize the suggestions.
 The recommendation engine is rule-based, with a focus on providing a mix of traditional and modern jewelry options based on the extracted features.
 Contribution
-Feel free to fork the project, contribute improvements, and create pull requests. For any issues or suggestions, please create an issue in the repository.'''
+Feel free to fork the project, contribute improvements, and create pull requests. For any issues or suggestions, please create an issue in the repository.
+
