@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/StyleSage-AI.git
+git clone https://github.com/pujitha31/StyleSage-AI.git
 cd StyleSage-AI
 Install required dependencies:
 
